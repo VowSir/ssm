@@ -1,4 +1,4 @@
-#ssm整合基于maven
+# ssm整合基于maven
  - 基础框架-ssm（SpringMVC+Spring+MyBatis）
  - 数据库-MySQL
  - 前端框架-bootstrap快速搭建简洁美观的界面
